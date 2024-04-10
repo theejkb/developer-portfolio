@@ -16,7 +16,7 @@ function ProjectCard({ project }) {
           <div className="h-2 w-2 lg:h-3 lg:w-3 rounded-full bg-orange-300"></div>
           <div className="h-2 w-2 lg:h-3 lg:w-3 rounded-full bg-green-400"></div>
         </div>
-        <p className="text-center ml-3 text-[#16f2b3] text-base lg:text-xl">
+        <p className="text-center ml-3 text-[#e8e337] text-base lg:text-xl">
           {project.name}
         </p>
       </div>
