@@ -3,7 +3,7 @@ export const educations = [
     id: 1,
     title: "Master Degree",
     duration: "2020 - 2022",
-    institutiog: "Campus Ynov"
+    institution: "Campus Ynov"
   },
   {
     id: 2,

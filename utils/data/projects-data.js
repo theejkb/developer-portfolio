@@ -41,7 +41,7 @@ export const projectsData = [
     demo: "https://xgangsters-dapp.vercel.app/",
   },
   {
-    id: 3,
+    id: 4,
     name: "The Clan Story",
     description:
       "Creation of an application to create a name, a story and export it all as an image to 5555 Gangsters to share on Twitter your NFT",
@@ -51,7 +51,7 @@ export const projectsData = [
     demo: "https://xgangsters-dapp.vercel.app/",
   },
   {
-    id: 3,
+    id: 5,
     name: "Moon Mission",
     description:
       "Creation of a control center where NFT MonnMission owners can manage projects and collect rewards. Development of a web application using the MultiversX wallet connection. This application allows NFT holders to have different functionalities such as - Governance: Users can create 1 topic per month - Holding Rewards: Users can receive rewards in $EGLD tokens depending on the number of NFTs they have in their wallet - Various statistics on the project, such as the number of holders, a preview of the different topics important",
@@ -61,7 +61,7 @@ export const projectsData = [
     demo: "",
   },
   {
-    id: 4,
+    id: 6,
     name: "Branchet",
     description:
       "Creation from scratch of a product and service presentation website. The aim of the project was to create a website presenting the company's services, businesses and blog, as well as a turnkey solution for the customer to modify and add new data easily.",
