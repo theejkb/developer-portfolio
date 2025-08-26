@@ -1,13 +1,14 @@
 export const skillsData = [
   'HTML',
   'CSS',
-  'Javascript',
+  'JS',
   'Typescript',
   'Python',
   'React',
   'Next JS',
   'Angular',
   'Java',
+  'Firebase',
   'Wordpress',
   'Tailwind',
   'MongoDB',
@@ -21,6 +22,7 @@ export const skillsData = [
   'Figma',
   'Canva',
   'MaterialUI',
+  
 ]
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.
@@ -109,3 +111,4 @@ export const skillsData = [
   Webex
   Wordpress
 */
+
